@@ -1,0 +1,273 @@
+10:38:28.374 [main] INFO  com.intuit.karate - karate.env system property was: null 
+10:38:28.591 [main] INFO  com.intuit.karate - [print] ---ini tugas post test Swagger--- 
+10:38:34.012 [main] ERROR com.intuit.karate - classpath:AutoTes/postRequest.feature:14
+Then status 200
+status code was: 415, expected: 200, response time in milliseconds: 2459, url: https://petstore.swagger.io/v2/user/createWithList, response: 
+{"code":415,"type":"unknown","message":"com.sun.jersey.api.MessageException: A message body reader for Java class java.util.List, and Java type java.util.List<io.swagger.sample.model.User>, and MIME media type application/octet-stream was not found.\nThe registered message body readers compatible with the MIME media type are:\n*/* ->\n  com.sun.jersey.core.impl.provider.entity.FormProvider\n  com.sun.jersey.core.impl.provider.entity.StringProvider\n  com.sun.jersey.core.impl.provider.entity.ByteArrayProvider\n  com.sun.jersey.core.impl.provider.entity.FileProvider\n  com.sun.jersey.core.impl.provider.entity.InputStreamProvider\n  com.sun.jersey.core.impl.provider.entity.DataSourceProvider\n  com.sun.jersey.core.impl.provider.entity.XMLJAXBElementProvider$General\n  com.sun.jersey.core.impl.provider.entity.ReaderProvider\n  com.sun.jersey.core.impl.provider.entity.DocumentProvider\n  com.sun.jersey.core.impl.provider.entity.SourceProvider$StreamSourceReader\n  com.sun.jersey.core.impl.provider.entity.SourceProvider$SAXSourceReader\n  com.sun.jersey.core.impl.provider.entity.SourceProvider$DOMSourceReader\n  com.sun.jersey.json.impl.provider.entity.JSONJAXBElementProvider$General\n  com.sun.jersey.json.impl.provider.entity.JSONArrayProvider$General\n  com.sun.jersey.json.impl.provider.entity.JSONObjectProvider$General\n  com.fasterxml.jackson.jaxrs.json.JacksonJsonProvider\n  com.sun.jersey.core.impl.provider.entity.XMLRootElementProvider$General\n  com.sun.jersey.core.impl.provider.entity.XMLListElementProvider$General\n  com.sun.jersey.core.impl.provider.entity.XMLRootObjectProvider$General\n  com.sun.jersey.core.impl.provider.entity.EntityHolderReader\n  com.sun.jersey.json.impl.provider.entity.JSONRootElementProvider$General\n  com.sun.jersey.json.impl.provider.entity.JSONListElementProvider$General\n  com.sun.jersey.json.impl.provider.entity.JacksonProviderProxy\napplication/octet-stream ->\n  com.sun.jersey.core.impl.provider.entity.ByteArrayProvider\n  com.sun.jersey.core.impl.provider.entity.FileProvider\n  com.sun.jersey.core.impl.provider.entity.InputStreamProvider\n  com.sun.jersey.core.impl.provider.entity.DataSourceProvider\n  com.sun.jersey.core.impl.provider.entity.RenderedImageProvider\n"}
+classpath:AutoTes/postRequest.feature:14
+10:41:36.270 [main] INFO  com.intuit.karate - karate.env system property was: null 
+10:41:36.668 [main] INFO  com.intuit.karate - [print] ---ini tugas post test Swagger--- 
+10:42:07.020 [main] ERROR com.intuit.karate - classpath:AutoTes/postRequest.feature:13
+Then status 200
+status code was: 415, expected: 200, response time in milliseconds: 11557, url: https://petstore.swagger.io/v2/user/createWithList, response: 
+{"code":415,"type":"unknown","message":"com.sun.jersey.api.MessageException: A message body reader for Java class java.util.List, and Java type java.util.List<io.swagger.sample.model.User>, and MIME media type application/octet-stream was not found.\nThe registered message body readers compatible with the MIME media type are:\n*/* ->\n  com.sun.jersey.core.impl.provider.entity.FormProvider\n  com.sun.jersey.core.impl.provider.entity.StringProvider\n  com.sun.jersey.core.impl.provider.entity.ByteArrayProvider\n  com.sun.jersey.core.impl.provider.entity.FileProvider\n  com.sun.jersey.core.impl.provider.entity.InputStreamProvider\n  com.sun.jersey.core.impl.provider.entity.DataSourceProvider\n  com.sun.jersey.core.impl.provider.entity.XMLJAXBElementProvider$General\n  com.sun.jersey.core.impl.provider.entity.ReaderProvider\n  com.sun.jersey.core.impl.provider.entity.DocumentProvider\n  com.sun.jersey.core.impl.provider.entity.SourceProvider$StreamSourceReader\n  com.sun.jersey.core.impl.provider.entity.SourceProvider$SAXSourceReader\n  com.sun.jersey.core.impl.provider.entity.SourceProvider$DOMSourceReader\n  com.sun.jersey.json.impl.provider.entity.JSONJAXBElementProvider$General\n  com.sun.jersey.json.impl.provider.entity.JSONArrayProvider$General\n  com.sun.jersey.json.impl.provider.entity.JSONObjectProvider$General\n  com.fasterxml.jackson.jaxrs.json.JacksonJsonProvider\n  com.sun.jersey.core.impl.provider.entity.XMLRootElementProvider$General\n  com.sun.jersey.core.impl.provider.entity.XMLListElementProvider$General\n  com.sun.jersey.core.impl.provider.entity.XMLRootObjectProvider$General\n  com.sun.jersey.core.impl.provider.entity.EntityHolderReader\n  com.sun.jersey.json.impl.provider.entity.JSONRootElementProvider$General\n  com.sun.jersey.json.impl.provider.entity.JSONListElementProvider$General\n  com.sun.jersey.json.impl.provider.entity.JacksonProviderProxy\napplication/octet-stream ->\n  com.sun.jersey.core.impl.provider.entity.ByteArrayProvider\n  com.sun.jersey.core.impl.provider.entity.FileProvider\n  com.sun.jersey.core.impl.provider.entity.InputStreamProvider\n  com.sun.jersey.core.impl.provider.entity.DataSourceProvider\n  com.sun.jersey.core.impl.provider.entity.RenderedImageProvider\n"}
+classpath:AutoTes/postRequest.feature:13
+10:56:53.307 [main] INFO  com.intuit.karate - karate.env system property was: null 
+10:56:54.501 [main] INFO  com.intuit.karate - [print] ---ini tugas post test Swagger--- 
+10:57:16.065 [main] ERROR com.intuit.karate - classpath:AutoTes/postRequest.feature:14
+Then status 200
+status code was: 415, expected: 200, response time in milliseconds: 5025, url: https://petstore.swagger.io/v2/user/createWithList, response: 
+{"code":415,"type":"unknown","message":"com.sun.jersey.api.MessageException: A message body reader for Java class java.util.List, and Java type java.util.List<io.swagger.sample.model.User>, and MIME media type application/octet-stream was not found.\nThe registered message body readers compatible with the MIME media type are:\n*/* ->\n  com.sun.jersey.core.impl.provider.entity.FormProvider\n  com.sun.jersey.core.impl.provider.entity.StringProvider\n  com.sun.jersey.core.impl.provider.entity.ByteArrayProvider\n  com.sun.jersey.core.impl.provider.entity.FileProvider\n  com.sun.jersey.core.impl.provider.entity.InputStreamProvider\n  com.sun.jersey.core.impl.provider.entity.DataSourceProvider\n  com.sun.jersey.core.impl.provider.entity.XMLJAXBElementProvider$General\n  com.sun.jersey.core.impl.provider.entity.ReaderProvider\n  com.sun.jersey.core.impl.provider.entity.DocumentProvider\n  com.sun.jersey.core.impl.provider.entity.SourceProvider$StreamSourceReader\n  com.sun.jersey.core.impl.provider.entity.SourceProvider$SAXSourceReader\n  com.sun.jersey.core.impl.provider.entity.SourceProvider$DOMSourceReader\n  com.sun.jersey.json.impl.provider.entity.JSONJAXBElementProvider$General\n  com.sun.jersey.json.impl.provider.entity.JSONArrayProvider$General\n  com.sun.jersey.json.impl.provider.entity.JSONObjectProvider$General\n  com.fasterxml.jackson.jaxrs.json.JacksonJsonProvider\n  com.sun.jersey.core.impl.provider.entity.XMLRootElementProvider$General\n  com.sun.jersey.core.impl.provider.entity.XMLListElementProvider$General\n  com.sun.jersey.core.impl.provider.entity.XMLRootObjectProvider$General\n  com.sun.jersey.core.impl.provider.entity.EntityHolderReader\n  com.sun.jersey.json.impl.provider.entity.JSONRootElementProvider$General\n  com.sun.jersey.json.impl.provider.entity.JSONListElementProvider$General\n  com.sun.jersey.json.impl.provider.entity.JacksonProviderProxy\napplication/octet-stream ->\n  com.sun.jersey.core.impl.provider.entity.ByteArrayProvider\n  com.sun.jersey.core.impl.provider.entity.FileProvider\n  com.sun.jersey.core.impl.provider.entity.InputStreamProvider\n  com.sun.jersey.core.impl.provider.entity.DataSourceProvider\n  com.sun.jersey.core.impl.provider.entity.RenderedImageProvider\n"}
+classpath:AutoTes/postRequest.feature:14
+10:58:33.360 [main] INFO  com.intuit.karate - karate.env system property was: null 
+10:58:33.477 [main] INFO  com.intuit.karate - [print] ---ini tugas post test Swagger--- 
+10:58:36.045 [main] INFO  com.intuit.karate - [print] {
+  "code": 415,
+  "type": "unknown",
+  "message": "com.sun.jersey.api.MessageException: A message body reader for Java class java.util.List, and Java type java.util.List<io.swagger.sample.model.User>, and MIME media type application/octet-stream was not found.\nThe registered message body readers compatible with the MIME media type are:\n*/* ->\n  com.sun.jersey.core.impl.provider.entity.FormProvider\n  com.sun.jersey.core.impl.provider.entity.StringProvider\n  com.sun.jersey.core.impl.provider.entity.ByteArrayProvider\n  com.sun.jersey.core.impl.provider.entity.FileProvider\n  com.sun.jersey.core.impl.provider.entity.InputStreamProvider\n  com.sun.jersey.core.impl.provider.entity.DataSourceProvider\n  com.sun.jersey.core.impl.provider.entity.XMLJAXBElementProvider$General\n  com.sun.jersey.core.impl.provider.entity.ReaderProvider\n  com.sun.jersey.core.impl.provider.entity.DocumentProvider\n  com.sun.jersey.core.impl.provider.entity.SourceProvider$StreamSourceReader\n  com.sun.jersey.core.impl.provider.entity.SourceProvider$SAXSourceReader\n  com.sun.jersey.core.impl.provider.entity.SourceProvider$DOMSourceReader\n  com.sun.jersey.json.impl.provider.entity.JSONJAXBElementProvider$General\n  com.sun.jersey.json.impl.provider.entity.JSONArrayProvider$General\n  com.sun.jersey.json.impl.provider.entity.JSONObjectProvider$General\n  com.fasterxml.jackson.jaxrs.json.JacksonJsonProvider\n  com.sun.jersey.core.impl.provider.entity.XMLRootElementProvider$General\n  com.sun.jersey.core.impl.provider.entity.XMLListElementProvider$General\n  com.sun.jersey.core.impl.provider.entity.XMLRootObjectProvider$General\n  com.sun.jersey.core.impl.provider.entity.EntityHolderReader\n  com.sun.jersey.json.impl.provider.entity.JSONRootElementProvider$General\n  com.sun.jersey.json.impl.provider.entity.JSONListElementProvider$General\n  com.sun.jersey.json.impl.provider.entity.JacksonProviderProxy\napplication/octet-stream ->\n  com.sun.jersey.core.impl.provider.entity.ByteArrayProvider\n  com.sun.jersey.core.impl.provider.entity.FileProvider\n  com.sun.jersey.core.impl.provider.entity.InputStreamProvider\n  com.sun.jersey.core.impl.provider.entity.DataSourceProvider\n  com.sun.jersey.core.impl.provider.entity.RenderedImageProvider\n"
+}
+ 
+11:02:15.471 [main] INFO  com.intuit.karate - karate.env system property was: null 
+11:02:15.587 [main] INFO  com.intuit.karate - [print] ---ini tugas post test Swagger--- 
+11:02:18.147 [main] ERROR com.intuit.karate - classpath:AutoTes/postRequest.feature:14
+Then status 200
+status code was: 415, expected: 200, response time in milliseconds: 1566, url: https://petstore.swagger.io/v2/user/createWithArray, response: 
+{"code":415,"type":"unknown","message":"com.sun.jersey.api.MessageException: A message body reader for Java class [Lio.swagger.sample.model.User;, and Java type class [Lio.swagger.sample.model.User;, and MIME media type application/octet-stream was not found.\nThe registered message body readers compatible with the MIME media type are:\n*/* ->\n  com.sun.jersey.core.impl.provider.entity.FormProvider\n  com.sun.jersey.core.impl.provider.entity.StringProvider\n  com.sun.jersey.core.impl.provider.entity.ByteArrayProvider\n  com.sun.jersey.core.impl.provider.entity.FileProvider\n  com.sun.jersey.core.impl.provider.entity.InputStreamProvider\n  com.sun.jersey.core.impl.provider.entity.DataSourceProvider\n  com.sun.jersey.core.impl.provider.entity.XMLJAXBElementProvider$General\n  com.sun.jersey.core.impl.provider.entity.ReaderProvider\n  com.sun.jersey.core.impl.provider.entity.DocumentProvider\n  com.sun.jersey.core.impl.provider.entity.SourceProvider$StreamSourceReader\n  com.sun.jersey.core.impl.provider.entity.SourceProvider$SAXSourceReader\n  com.sun.jersey.core.impl.provider.entity.SourceProvider$DOMSourceReader\n  com.sun.jersey.json.impl.provider.entity.JSONJAXBElementProvider$General\n  com.sun.jersey.json.impl.provider.entity.JSONArrayProvider$General\n  com.sun.jersey.json.impl.provider.entity.JSONObjectProvider$General\n  com.fasterxml.jackson.jaxrs.json.JacksonJsonProvider\n  com.sun.jersey.core.impl.provider.entity.XMLRootElementProvider$General\n  com.sun.jersey.core.impl.provider.entity.XMLListElementProvider$General\n  com.sun.jersey.core.impl.provider.entity.XMLRootObjectProvider$General\n  com.sun.jersey.core.impl.provider.entity.EntityHolderReader\n  com.sun.jersey.json.impl.provider.entity.JSONRootElementProvider$General\n  com.sun.jersey.json.impl.provider.entity.JSONListElementProvider$General\n  com.sun.jersey.json.impl.provider.entity.JacksonProviderProxy\napplication/octet-stream ->\n  com.sun.jersey.core.impl.provider.entity.ByteArrayProvider\n  com.sun.jersey.core.impl.provider.entity.FileProvider\n  com.sun.jersey.core.impl.provider.entity.InputStreamProvider\n  com.sun.jersey.core.impl.provider.entity.DataSourceProvider\n  com.sun.jersey.core.impl.provider.entity.RenderedImageProvider\n"}
+classpath:AutoTes/postRequest.feature:14
+11:05:44.542 [main] INFO  com.intuit.karate - karate.env system property was: null 
+11:05:44.651 [main] INFO  com.intuit.karate - [print] ---ini tugas post test Swagger--- 
+11:05:47.301 [main] ERROR com.intuit.karate - classpath:AutoTes/postRequest.feature:14
+Then status 200
+status code was: 415, expected: 200, response time in milliseconds: 1645, url: https://petstore.swagger.io/v2/user/createWithArray, response: 
+{"code":415,"type":"unknown","message":"com.sun.jersey.api.MessageException: A message body reader for Java class [Lio.swagger.sample.model.User;, and Java type class [Lio.swagger.sample.model.User;, and MIME media type application/octet-stream was not found.\nThe registered message body readers compatible with the MIME media type are:\n*/* ->\n  com.sun.jersey.core.impl.provider.entity.FormProvider\n  com.sun.jersey.core.impl.provider.entity.StringProvider\n  com.sun.jersey.core.impl.provider.entity.ByteArrayProvider\n  com.sun.jersey.core.impl.provider.entity.FileProvider\n  com.sun.jersey.core.impl.provider.entity.InputStreamProvider\n  com.sun.jersey.core.impl.provider.entity.DataSourceProvider\n  com.sun.jersey.core.impl.provider.entity.XMLJAXBElementProvider$General\n  com.sun.jersey.core.impl.provider.entity.ReaderProvider\n  com.sun.jersey.core.impl.provider.entity.DocumentProvider\n  com.sun.jersey.core.impl.provider.entity.SourceProvider$StreamSourceReader\n  com.sun.jersey.core.impl.provider.entity.SourceProvider$SAXSourceReader\n  com.sun.jersey.core.impl.provider.entity.SourceProvider$DOMSourceReader\n  com.sun.jersey.json.impl.provider.entity.JSONJAXBElementProvider$General\n  com.sun.jersey.json.impl.provider.entity.JSONArrayProvider$General\n  com.sun.jersey.json.impl.provider.entity.JSONObjectProvider$General\n  com.fasterxml.jackson.jaxrs.json.JacksonJsonProvider\n  com.sun.jersey.core.impl.provider.entity.XMLRootElementProvider$General\n  com.sun.jersey.core.impl.provider.entity.XMLListElementProvider$General\n  com.sun.jersey.core.impl.provider.entity.XMLRootObjectProvider$General\n  com.sun.jersey.core.impl.provider.entity.EntityHolderReader\n  com.sun.jersey.json.impl.provider.entity.JSONRootElementProvider$General\n  com.sun.jersey.json.impl.provider.entity.JSONListElementProvider$General\n  com.sun.jersey.json.impl.provider.entity.JacksonProviderProxy\napplication/octet-stream ->\n  com.sun.jersey.core.impl.provider.entity.ByteArrayProvider\n  com.sun.jersey.core.impl.provider.entity.FileProvider\n  com.sun.jersey.core.impl.provider.entity.InputStreamProvider\n  com.sun.jersey.core.impl.provider.entity.DataSourceProvider\n  com.sun.jersey.core.impl.provider.entity.RenderedImageProvider\n"}
+classpath:AutoTes/postRequest.feature:14
+11:14:03.571 [main] INFO  com.intuit.karate - karate.env system property was: null 
+11:14:03.778 [main] INFO  com.intuit.karate - [print] ---ini tugas post test Swagger--- 
+11:14:08.744 [main] ERROR com.intuit.karate - classpath:AutoTes/postRequest.feature:14
+Then status 200
+status code was: 415, expected: 200, response time in milliseconds: 2775, url: https://petstore.swagger.io/v2/user, response: 
+{"code":415,"type":"unknown","message":"com.sun.jersey.api.MessageException: A message body reader for Java class io.swagger.sample.model.User, and Java type class io.swagger.sample.model.User, and MIME media type application/octet-stream was not found.\nThe registered message body readers compatible with the MIME media type are:\n*/* ->\n  com.sun.jersey.core.impl.provider.entity.FormProvider\n  com.sun.jersey.core.impl.provider.entity.StringProvider\n  com.sun.jersey.core.impl.provider.entity.ByteArrayProvider\n  com.sun.jersey.core.impl.provider.entity.FileProvider\n  com.sun.jersey.core.impl.provider.entity.InputStreamProvider\n  com.sun.jersey.core.impl.provider.entity.DataSourceProvider\n  com.sun.jersey.core.impl.provider.entity.XMLJAXBElementProvider$General\n  com.sun.jersey.core.impl.provider.entity.ReaderProvider\n  com.sun.jersey.core.impl.provider.entity.DocumentProvider\n  com.sun.jersey.core.impl.provider.entity.SourceProvider$StreamSourceReader\n  com.sun.jersey.core.impl.provider.entity.SourceProvider$SAXSourceReader\n  com.sun.jersey.core.impl.provider.entity.SourceProvider$DOMSourceReader\n  com.sun.jersey.json.impl.provider.entity.JSONJAXBElementProvider$General\n  com.sun.jersey.json.impl.provider.entity.JSONArrayProvider$General\n  com.sun.jersey.json.impl.provider.entity.JSONObjectProvider$General\n  com.fasterxml.jackson.jaxrs.json.JacksonJsonProvider\n  com.sun.jersey.core.impl.provider.entity.XMLRootElementProvider$General\n  com.sun.jersey.core.impl.provider.entity.XMLListElementProvider$General\n  com.sun.jersey.core.impl.provider.entity.XMLRootObjectProvider$General\n  com.sun.jersey.core.impl.provider.entity.EntityHolderReader\n  com.sun.jersey.json.impl.provider.entity.JSONRootElementProvider$General\n  com.sun.jersey.json.impl.provider.entity.JSONListElementProvider$General\n  com.sun.jersey.json.impl.provider.entity.JacksonProviderProxy\napplication/octet-stream ->\n  com.sun.jersey.core.impl.provider.entity.ByteArrayProvider\n  com.sun.jersey.core.impl.provider.entity.FileProvider\n  com.sun.jersey.core.impl.provider.entity.InputStreamProvider\n  com.sun.jersey.core.impl.provider.entity.DataSourceProvider\n  com.sun.jersey.core.impl.provider.entity.RenderedImageProvider\n"}
+classpath:AutoTes/postRequest.feature:14
+11:20:37.185 [main] INFO  com.intuit.karate - karate.env system property was: null 
+11:20:37.359 [main] INFO  com.intuit.karate - [print] ---ini tugas post test Swagger--- 
+11:20:42.035 [main] ERROR com.intuit.karate - classpath:AutoTes/postRequest.feature:14
+Then status 200
+status code was: 415, expected: 200, response time in milliseconds: 2665, url: https://petstore.swagger.io/v2/user, response: 
+{"code":415,"type":"unknown","message":"com.sun.jersey.api.MessageException: A message body reader for Java class io.swagger.sample.model.User, and Java type class io.swagger.sample.model.User, and MIME media type application/octet-stream was not found.\nThe registered message body readers compatible with the MIME media type are:\n*/* ->\n  com.sun.jersey.core.impl.provider.entity.FormProvider\n  com.sun.jersey.core.impl.provider.entity.StringProvider\n  com.sun.jersey.core.impl.provider.entity.ByteArrayProvider\n  com.sun.jersey.core.impl.provider.entity.FileProvider\n  com.sun.jersey.core.impl.provider.entity.InputStreamProvider\n  com.sun.jersey.core.impl.provider.entity.DataSourceProvider\n  com.sun.jersey.core.impl.provider.entity.XMLJAXBElementProvider$General\n  com.sun.jersey.core.impl.provider.entity.ReaderProvider\n  com.sun.jersey.core.impl.provider.entity.DocumentProvider\n  com.sun.jersey.core.impl.provider.entity.SourceProvider$StreamSourceReader\n  com.sun.jersey.core.impl.provider.entity.SourceProvider$SAXSourceReader\n  com.sun.jersey.core.impl.provider.entity.SourceProvider$DOMSourceReader\n  com.sun.jersey.json.impl.provider.entity.JSONJAXBElementProvider$General\n  com.sun.jersey.json.impl.provider.entity.JSONArrayProvider$General\n  com.sun.jersey.json.impl.provider.entity.JSONObjectProvider$General\n  com.fasterxml.jackson.jaxrs.json.JacksonJsonProvider\n  com.sun.jersey.core.impl.provider.entity.XMLRootElementProvider$General\n  com.sun.jersey.core.impl.provider.entity.XMLListElementProvider$General\n  com.sun.jersey.core.impl.provider.entity.XMLRootObjectProvider$General\n  com.sun.jersey.core.impl.provider.entity.EntityHolderReader\n  com.sun.jersey.json.impl.provider.entity.JSONRootElementProvider$General\n  com.sun.jersey.json.impl.provider.entity.JSONListElementProvider$General\n  com.sun.jersey.json.impl.provider.entity.JacksonProviderProxy\napplication/octet-stream ->\n  com.sun.jersey.core.impl.provider.entity.ByteArrayProvider\n  com.sun.jersey.core.impl.provider.entity.FileProvider\n  com.sun.jersey.core.impl.provider.entity.InputStreamProvider\n  com.sun.jersey.core.impl.provider.entity.DataSourceProvider\n  com.sun.jersey.core.impl.provider.entity.RenderedImageProvider\n"}
+classpath:AutoTes/postRequest.feature:14
+11:23:28.847 [main] INFO  com.intuit.karate - karate.env system property was: null 
+11:23:28.972 [main] INFO  com.intuit.karate - [print] ---ini tugas post test Swagger--- 
+11:23:29.118 [main] ERROR com.intuit.karate - classpath:AutoTes/postRequest.feature:11
+And method post
+java.net.URISyntaxException: Illegal character in scheme name at index 0:  https://petstore.swagger.io/v2
+classpath:AutoTes/postRequest.feature:11
+11:33:47.755 [main] INFO  com.intuit.karate - karate.env system property was: null 
+11:33:47.951 [main] INFO  com.intuit.karate - [print] ---ini tugas post test Swagger--- 
+11:33:48.290 [main] ERROR com.intuit.karate - classpath:AutoTes/postRequest.feature:13
+And method post
+java.net.URISyntaxException: Illegal character in scheme name at index 0:  https://petstore.swagger.io/v2
+classpath:AutoTes/postRequest.feature:13
+11:34:43.219 [main] INFO  com.intuit.karate - karate.env system property was: null 
+11:34:43.386 [main] INFO  com.intuit.karate - [print] ---ini tugas post test Swagger--- 
+11:34:43.604 [main] ERROR com.intuit.karate - classpath:AutoTes/postRequest.feature:13
+When method post
+java.net.URISyntaxException: Illegal character in scheme name at index 0:  https://petstore.swagger.io/v2
+classpath:AutoTes/postRequest.feature:13
+11:37:02.441 [main] INFO  com.intuit.karate - karate.env system property was: null 
+11:37:02.596 [main] INFO  com.intuit.karate - [print] ---ini tugas post test Swagger--- 
+11:37:07.010 [main] INFO  com.intuit.karate - [print] {
+  "code": 200,
+  "type": "unknown",
+  "message": "9223372036854775807"
+}
+ 
+11:40:55.358 [main] INFO  com.intuit.karate - karate.env system property was: null 
+11:40:55.580 [main] INFO  com.intuit.karate - [print] ---ini tugas post test Swagger--- 
+11:41:04.982 [main] INFO  com.intuit.karate - [print] {
+  "code": 200,
+  "type": "unknown",
+  "message": "123"
+}
+ 
+11:45:27.698 [main] INFO  com.intuit.karate - karate.env system property was: null 
+11:45:27.907 [main] INFO  com.intuit.karate - [print] ---ini tugas post test Swagger--- 
+11:45:39.134 [main] INFO  com.intuit.karate - [print] {
+  "code": 200,
+  "type": "unknown",
+  "message": "123"
+}
+ 
+11:51:02.974 [main] INFO  com.intuit.karate - karate.env system property was: null 
+11:51:03.158 [main] INFO  com.intuit.karate - [print] ---ini tugas get tes swagger--- 
+11:51:07.401 [main] INFO  com.intuit.karate - [print] {
+  "id": 123,
+  "username": "bisma",
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "password": "string",
+  "phone": "string",
+  "userStatus": 0
+}
+ 
+11:51:10.710 [main] INFO  com.intuit.karate - karate.env system property was: null 
+11:51:10.723 [main] INFO  com.intuit.karate - [print] ---ini tugas post test Swagger--- 
+11:51:12.795 [main] INFO  com.intuit.karate - [print] {
+  "code": 200,
+  "type": "unknown",
+  "message": "123"
+}
+ 
+12:02:54.906 [main] INFO  com.intuit.karate - karate.env system property was: null 
+12:02:55.159 [main] INFO  com.intuit.karate - [print] ---ini tugas delete tes swagger--- 
+12:03:02.892 [main] ERROR com.intuit.karate - classpath:AutoTes/delRequest.feature:10
+And status 200
+status code was: 404, expected: 200, response time in milliseconds: 3345, url: https://petstore.swagger.io/v2/user/bisma, response: 
+
+classpath:AutoTes/delRequest.feature:10
+12:04:16.311 [main] INFO  com.intuit.karate - karate.env system property was: null 
+12:04:16.460 [main] INFO  com.intuit.karate - [print] ---ini tugas delete tes swagger--- 
+12:04:19.253 [main] ERROR com.intuit.karate - classpath:AutoTes/delRequest.feature:10
+And status 200
+status code was: 404, expected: 200, response time in milliseconds: 1578, url: https://petstore.swagger.io/v2/user/bisma, response: 
+
+classpath:AutoTes/delRequest.feature:10
+12:04:21.579 [main] INFO  com.intuit.karate - karate.env system property was: null 
+12:04:21.590 [main] INFO  com.intuit.karate - [print] ---ini tugas post test Swagger--- 
+12:04:22.844 [main] INFO  com.intuit.karate - [print] {
+  "code": 200,
+  "type": "unknown",
+  "message": "123"
+}
+ 
+12:04:49.920 [main] INFO  com.intuit.karate - karate.env system property was: null 
+12:04:50.060 [main] INFO  com.intuit.karate - [print] ---ini tugas delete tes swagger--- 
+12:04:52.511 [main] INFO  com.intuit.karate - [print] {
+  "code": 200,
+  "type": "unknown",
+  "message": "bisma"
+}
+ 
+12:05:57.397 [main] INFO  com.intuit.karate - karate.env system property was: null 
+12:05:57.526 [main] INFO  com.intuit.karate - [print] ---ini tugas delete tes swagger--- 
+12:06:00.102 [main] ERROR com.intuit.karate - classpath:AutoTes/delRequest.feature:10
+And status 200
+status code was: 404, expected: 200, response time in milliseconds: 1514, url: https://petstore.swagger.io/v2/user/bisma, response: 
+
+classpath:AutoTes/delRequest.feature:10
+12:06:02.521 [main] INFO  com.intuit.karate - karate.env system property was: null 
+12:06:02.529 [main] INFO  com.intuit.karate - [print] ---ini tugas get tes swagger--- 
+12:06:03.375 [main] ERROR com.intuit.karate - classpath:AutoTes/getRequest.feature:10
+And status 200
+status code was: 404, expected: 200, response time in milliseconds: 820, url: https://petstore.swagger.io/v2/user/bisma, response: 
+{"code":1,"type":"error","message":"User not found"}
+classpath:AutoTes/getRequest.feature:10
+12:06:03.901 [main] INFO  com.intuit.karate - karate.env system property was: null 
+12:06:03.909 [main] INFO  com.intuit.karate - [print] ---ini tugas post test Swagger--- 
+12:06:04.893 [main] INFO  com.intuit.karate - [print] {
+  "code": 200,
+  "type": "unknown",
+  "message": "123"
+}
+ 
+12:06:46.045 [main] INFO  com.intuit.karate - karate.env system property was: null 
+12:06:46.213 [main] INFO  com.intuit.karate - [print] ---ini tugas delete tes swagger--- 
+12:06:49.089 [main] INFO  com.intuit.karate - [print] {
+  "code": 200,
+  "type": "unknown",
+  "message": "bisma"
+}
+ 
+12:06:51.303 [main] INFO  com.intuit.karate - karate.env system property was: null 
+12:06:51.314 [main] INFO  com.intuit.karate - [print] ---ini tugas get tes swagger--- 
+12:06:52.172 [main] ERROR com.intuit.karate - classpath:AutoTes/getRequest.feature:10
+And status 200
+status code was: 404, expected: 200, response time in milliseconds: 806, url: https://petstore.swagger.io/v2/user/bisma, response: 
+{"code":1,"type":"error","message":"User not found"}
+classpath:AutoTes/getRequest.feature:10
+12:06:52.980 [main] INFO  com.intuit.karate - karate.env system property was: null 
+12:06:52.991 [main] INFO  com.intuit.karate - [print] ---ini tugas post test Swagger--- 
+12:20:10.000 [main] INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1702704009490
+12:21:27.834 [main] INFO  com.intuit.karate - karate.env system property was: null 
+12:21:29.680 [main] INFO  com.intuit.karate - [print] ---ini tugas delete tes swagger--- 
+12:22:14.434 [main] ERROR com.intuit.karate - classpath:AutoTes/delRequest.feature:10
+And status 200
+status code was: 404, expected: 200, response time in milliseconds: 27391, url: https://petstore.swagger.io/v2/user/bisma, response: 
+
+classpath:AutoTes/delRequest.feature:10
+12:22:27.896 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 3 (0 remaining) classpath:AutoTes/delRequest.feature
+12:22:27.949 [main] INFO  com.intuit.karate - karate.env system property was: null 
+12:22:27.961 [main] INFO  com.intuit.karate - [print] ---ini tugas get tes swagger--- 
+12:22:28.807 [main] ERROR com.intuit.karate - classpath:AutoTes/getRequest.feature:10
+And status 200
+status code was: 404, expected: 200, response time in milliseconds: 802, url: https://petstore.swagger.io/v2/user/bisma, response: 
+{"code":1,"type":"error","message":"User not found"}
+classpath:AutoTes/getRequest.feature:10
+12:22:29.257 [main] INFO  com.intuit.karate.Suite - <<fail>> feature 2 of 3 (0 remaining) classpath:AutoTes/getRequest.feature
+12:22:29.276 [main] INFO  com.intuit.karate - karate.env system property was: null 
+12:22:29.287 [main] INFO  com.intuit.karate - [print] ---ini tugas post test Swagger--- 
+12:22:32.574 [main] INFO  com.intuit.karate - [print] {
+  "code": 200,
+  "type": "unknown",
+  "message": "123"
+}
+ 
+12:22:33.106 [main] INFO  com.intuit.karate.Suite - <<pass>> feature 3 of 3 (0 remaining) classpath:AutoTes/postRequest.feature
+12:28:39.932 [main] INFO  com.intuit.karate - karate.env system property was: null 
+12:28:40.090 [main] INFO  com.intuit.karate - [print] ---ini tugas post test Swagger--- 
+12:28:44.887 [main] INFO  com.intuit.karate - [print] {
+  "code": 200,
+  "type": "unknown",
+  "message": "123"
+}
+ 
+12:28:44.941 [main] INFO  com.intuit.karate - karate.env system property was: null 
+12:28:44.961 [main] INFO  com.intuit.karate - [print] ---ini tugas post test Swagger--- 
+12:28:45.767 [main] INFO  com.intuit.karate - [print] {
+  "id": 123,
+  "username": "bisma",
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "password": "string",
+  "phone": "string",
+  "userStatus": 0
+}
+ 
+12:28:45.813 [main] INFO  com.intuit.karate - karate.env system property was: null 
+12:28:45.824 [main] INFO  com.intuit.karate - [print] ---ini tugas post test Swagger--- 
+12:28:46.609 [main] INFO  com.intuit.karate - [print] {
+  "code": 200,
+  "type": "unknown",
+  "message": "bisma"
+}
+ 
+12:33:51.177 [main] INFO  com.intuit.karate - karate.env system property was: null 
+12:33:51.299 [main] INFO  com.intuit.karate - [print] ---ini tugas post test Swagger--- 
+12:33:54.009 [main] INFO  com.intuit.karate - [print] {
+  "code": 200,
+  "type": "unknown",
+  "message": "123"
+}
+ 
+12:33:54.059 [main] INFO  com.intuit.karate - karate.env system property was: null 
+12:33:54.072 [main] INFO  com.intuit.karate - [print] ---ini tugas post test Swagger--- 
+12:33:54.854 [main] INFO  com.intuit.karate - [print] {
+  "id": 123,
+  "username": "bisma",
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "password": "string",
+  "phone": "string",
+  "userStatus": 0
+}
+ 
+12:33:54.901 [main] INFO  com.intuit.karate - karate.env system property was: null 
+12:33:54.914 [main] INFO  com.intuit.karate - [print] ---ini tugas post test Swagger--- 
+12:33:55.698 [main] INFO  com.intuit.karate - [print] {
+  "code": 200,
+  "type": "unknown",
+  "message": "bisma"
+}
+ 
